@@ -6,7 +6,7 @@ import joblib
 
 def main():
     # Charger l'image depuis votre PC
-    image_path = 'C:/Users/alaba/OneDrive/Bureau/ModelDeployment/image.jpg'
+    image_path = 'image.jpg'
     
     # Convertir l'image en base64
     def get_base64_of_bin_file(bin_file):
